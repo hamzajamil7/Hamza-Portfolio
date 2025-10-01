@@ -6,6 +6,17 @@ export default function About() {
 
 return (
 
+
+    <>
+    
+    <div className="flex items-center gap-3 mb-12">
+            <div className="w-6 h-[1px] bg-gray-600" />
+            <h3 className="text-sm uppercase tracking-wider text-gray-400">About</h3>
+          </div>
+    
+    
+    
+
  <div className="grid md:grid-cols-2 gap-12">
             <div className="animate-fade-in-left">
               <h3 className="text-2xl font-bold mb-6">Hi, I'm Hamza.</h3>
@@ -23,7 +34,7 @@ return (
             </div>
           </div>
 
-
+</>
 
 )
 

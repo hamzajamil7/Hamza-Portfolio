@@ -23,7 +23,7 @@ export default function Home() {
       <div className="relative z-10">
 
         {/* Hero Section */}
-        <section id="home" className="container mx-auto px-6 py-12 md:py-20 mt-15">
+        <section id="home" className="container mx-auto px-6 py-12 md:py-20 mt-18">
           <HeroSection />
         </section>
 
