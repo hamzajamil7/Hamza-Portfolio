@@ -9,7 +9,7 @@ import { Suspense } from "react"
 export const metadata: Metadata = {
   title: "Hamza - Frontend Developer",
   description: "Portfolio of Hamza, a creative Frontend Developer with 3+ years of experience",
-  generator: "v0.app",
+  
 }
 
 export default function RootLayout({

@@ -1,5 +1,6 @@
-import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
-import { MdMail } from "react-icons/md";
+import { FaXTwitter } from "react-icons/fa6";
+import { FaGithub, FaLinkedin} from "react-icons/fa";
+import { MdMail} from "react-icons/md";
 
 
 export default function Footer() {
@@ -39,7 +40,7 @@ return (
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-[#00ff00] transition-colors hover:scale-110 transform"
               >
-                <FaTwitter className="w-6 h-6" />
+                <FaXTwitter className="w-6 h-6" />
               </a>
               <a
                 href="mailto:hamzaajamil3@gmail.com"

@@ -36,14 +36,17 @@ export function Navbar() {
                 {link.name}
               </a>
             ))}
-          </div>
 
 
-          <div className="hidden md:inline-block">
+            <div className="hidden md:inline-block">
             <a className=" bg-[#00ff00] text-black px-5 py-2 rounded-full font-semibold hover:bg-[#00ff00]/90 transition-colors">
               Resume
             </a>
           </div>
+          </div>
+
+
+          
 
           {/* Mobile Menu Button */}
           <button

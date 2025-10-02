@@ -23,14 +23,14 @@ return (
             </div>
             <div className="space-y-4 text-gray-400 leading-relaxed animate-fade-in-right">
               <p>
-                I'm a frontend web developer dedicated to turning ideas into creative solutions. I specialize in
-                creating seamless and intuitive user experiences.
-              </p>
-              <p>
-                My approach focuses on creating scalable, high-performance, and responsive web applications. By
-                prioritizing performance, accessibility, and responsiveness, I strive to deliver tangible results that
-                go beyond UI/UX.
-              </p>
+    I’m a <strong>Frontend Web Developer</strong> passionate about transforming ideas into engaging digital experiences. 
+    My focus lies in building <strong>scalable, high-performance, and responsive applications</strong> that blend creativity with functionality.
+  </p>
+  
+  <p>
+    With a strong commitment to <strong>accessibility, performance, and user-centric design</strong>, 
+    I strive to craft seamless interfaces that not only look great but also deliver measurable impact beyond just UI/UX.
+  </p>
             </div>
           </div>
 
